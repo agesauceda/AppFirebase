@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "556456221834",
+    "firebase_url": "https://netmauiapp-e2ab9-default-rtdb.firebaseio.com",
+    "project_id": "netmauiapp-e2ab9",
+    "storage_bucket": "netmauiapp-e2ab9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556456221834:android:928cb84565c6cd8efc6173",
+        "android_client_info": {
+          "package_name": "com.companyname.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC59AXNvjF58mMEmDnrF8-fJCc2hGHOBT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
